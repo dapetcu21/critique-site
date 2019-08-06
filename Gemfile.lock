@@ -255,12 +255,13 @@ DEPENDENCIES
   github-pages
   jekyll
   jekyll-autoprefixer
+  jekyll-redirect-from
   kramdown
   rack-jekyll
   rake
 
 RUBY VERSION
-   ruby 2.5.1p57
+   ruby 2.6.2p47
 
 BUNDLED WITH
-   1.16.1
+   1.17.2

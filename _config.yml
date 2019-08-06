@@ -41,6 +41,7 @@ markdown: kramdown
 plugins:
   - kramdown
   - jekyll-autoprefixer
+  - jekyll-redirect-from
 
 autoprefixer:
   browsers:
